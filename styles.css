@@ -1,0 +1,30 @@
+@font-face {
+    font-family: 'Esperanza'; 
+    src: url('ES______.TTF') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'nightsjy'; 
+    src: url('nightsky.ttf') format('truetype'); 
+}
+
+@font-face {
+    font-family: 'MyCustomFont';
+    src: url('MigaeSemibold-3zd2M.otf') format('opentype');
+}
+
+.nameesperanza {
+    font-family: 'Esperanza', sans-serif;
+}
+
+.namenight {
+    font-family: 'nightsjy', sans-serif;
+}
+
+h1 {
+    font-family: 'Esperanza', sans-serif;
+}
+
+.migae {
+    font-family: 'MyCustomFont', sans-serif;
+}
